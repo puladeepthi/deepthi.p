@@ -1,5 +1,5 @@
-ch=input("enter the alphbet")
-if((ch>'a'  and ch<'z')or(ch>'A' and ch<'B')):
-    print(ch,"character is alphabet")
+al=input("enter the alphbet")
+if((al>'a' and al<'z')or(al>'A' and al<'Z')):
+    print(al,"character is alphabet")
 else:
-    print(ch,"character is not alphabet")
+    print(al,"character is not alphabet")
