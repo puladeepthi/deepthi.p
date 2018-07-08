@@ -1,0 +1,9 @@
+a=1
+b=2
+c=3
+if((c>=a)and(c>=b)):
+  largest=c
+elif((b>=a)and(b>=c)):
+  largest=b
+else:
+  largest=a
