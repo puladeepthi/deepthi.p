@@ -7,7 +7,7 @@ for i in range(a):
     b.insert(i,x)
 for j in range(a):
     x=int(input())
-    c.insert(i,x):
+    c.insert(i,x)
 d=b[::-1]
 if(d==c):
   print("Yes")
